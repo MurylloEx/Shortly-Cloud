@@ -1,0 +1,22 @@
+{
+  "name": "shortly-ui",
+  "version": "1.0.0",
+  "description": "Shortly User Interface",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "shortly",
+    "shortener"
+  ],
+  "author": "Muryllo Pimenta, Luiz Gustavo e Kelvin Vasconcelos",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "randomstring": "^1.2.1",
+    "sqlite3": "^5.0.2"
+  }
+}

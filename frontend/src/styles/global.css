@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: #000;
+  background-color: #f4f5f8 !important;
+}
+
+body,
+input,
+button,
+textarea {
+  font: 600 18px Nunito, sans-serif;
+}
+
+footer {
+  font-size: small;
+  width: 100%;
+  background-color: #2f395c;
+  color: white;
+  text-align: center;
+  border-top: solid;
+  border-color: #24d3ee;
+  padding: 0.75rem;
+}
